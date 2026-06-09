@@ -12,11 +12,11 @@ else:
     percentage=(total/600)*100
     if percentage>=90:
         print("A+ Grade")
-    elif percenatge>=80:
+    elif percentage>=80:
         print("A Grade")
     elif percentage>=70:
         print("B+ Grade")
-    elif percedntage>=60:
+    elif percentage>=60:
         print("B Grade")
     elif percentage>=50:
         print("C Grade")
